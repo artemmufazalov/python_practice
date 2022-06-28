@@ -54,8 +54,8 @@ class GameEngine:
         return self.field
 
     def get_is_game_over(self):
-        # return self.is_over
-        return True
+        return self.is_over
+        # return True
 
     @staticmethod
     def _process(order):
