@@ -1,6 +1,6 @@
 ## Мини проекты, выполненные на Python
 
-### [Tkinter pizza](https://github.com/artemmufazalov/python_practice/tree/master/tkinter_pizza)
+### [Tkinter Pizza](https://github.com/artemmufazalov/python_practice/tree/master/tkinter_pizza)
 <p>Десктопное приложение на Tkinter для заказа пиццы.</p>
 <p>В приложении два окна: меню (картинка 1), а также корзина с возможностью оформления заказа (картинка 2).</p>
 
@@ -16,7 +16,7 @@
 </kbd>
 
 
-### [Tkinter kanban](https://github.com/artemmufazalov/python_practice/tree/master/tkinter_kanban)
+### [Tkinter Kanban](https://github.com/artemmufazalov/python_practice/tree/master/tkinter_kanban)
 <p>Десктопное приложение на Tkinter для управление задачами.</p>
 <p>В приложение можно добавлять задачи (картинка 2).<br/>
 Все задачи распределены в три колонки: "Сделать", "В прогрессе", "Завершенные".<br/>
